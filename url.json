@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/Dgeeroms/websec/refs/heads/main/xsspayload.txt",
+    "url": "https://raw.githubusercontent.com/Dgeeroms/websec/refs/heads/main/payload.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/Dgeeroms/websec/refs/heads/main/xsspayload.txt",
+            "url": "https://raw.githubusercontent.com/Dgeeroms/websec/refs/heads/main/payload.yaml",
             "name": "Foo"
         }
     ]
